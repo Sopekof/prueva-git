@@ -1,0 +1,14 @@
+E:\todocode holamundo\holamundo\bin\Debug\net8.0\holamundo.exe
+E:\todocode holamundo\holamundo\bin\Debug\net8.0\holamundo.deps.json
+E:\todocode holamundo\holamundo\bin\Debug\net8.0\holamundo.runtimeconfig.json
+E:\todocode holamundo\holamundo\bin\Debug\net8.0\holamundo.dll
+E:\todocode holamundo\holamundo\bin\Debug\net8.0\holamundo.pdb
+E:\todocode holamundo\holamundo\obj\Debug\net8.0\holamundo.GeneratedMSBuildEditorConfig.editorconfig
+E:\todocode holamundo\holamundo\obj\Debug\net8.0\holamundo.AssemblyInfoInputs.cache
+E:\todocode holamundo\holamundo\obj\Debug\net8.0\holamundo.AssemblyInfo.cs
+E:\todocode holamundo\holamundo\obj\Debug\net8.0\holamundo.csproj.CoreCompileInputs.cache
+E:\todocode holamundo\holamundo\obj\Debug\net8.0\holamundo.dll
+E:\todocode holamundo\holamundo\obj\Debug\net8.0\refint\holamundo.dll
+E:\todocode holamundo\holamundo\obj\Debug\net8.0\holamundo.pdb
+E:\todocode holamundo\holamundo\obj\Debug\net8.0\holamundo.genruntimeconfig.cache
+E:\todocode holamundo\holamundo\obj\Debug\net8.0\ref\holamundo.dll
